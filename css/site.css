@@ -1,0 +1,15 @@
+:root {
+    --main-bg-color: rgb(255, 255, 255);
+}
+  
+html {
+    background-color: var(--main-bg-color);
+}
+  
+body {
+    background-color: var(--main-bg-color);
+}
+  
+.row {
+    background-color: var(--main-bg-color);
+}
